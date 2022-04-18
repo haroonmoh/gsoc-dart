@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "25812727980",
+    "project_id": "fcdashboard-a0ce8",
+    "storage_bucket": "fcdashboard-a0ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25812727980:android:e53165bf3d2eabb03fc709",
+        "android_client_info": {
+          "package_name": "com.fc.fcdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25812727980-7i648u3uaoc8ldlgd106brfnlc941rtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHwxF7LnqV0JDp1S0Ih2NBUmsWZXrjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25812727980-7i648u3uaoc8ldlgd106brfnlc941rtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25812727980-75deburdmf32i0rgu4fv324adklmorad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fc.fcdashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
